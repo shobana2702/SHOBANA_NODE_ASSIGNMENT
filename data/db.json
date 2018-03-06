@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "productName": "Bag",
+    "price": 1000,
+    "inTheBox":
+      "Rain / Dust Cover for backpacks for any medium and large size backpack. Specially reinforced PU coated Waterproof Material",
+    "modelNumber": "B01HOFI1C2",
+    "size": "5.5 inch",
+    "category": "accessories",
+    "color": "Blue",
+    "touchScreen": "no",
+    "image":
+      "https://www.amazon.in/Cosmus-Cover-Pouch-School-Backpacks.mobile.jpeg"
+  },
+  {
+    "id": "2",
+    "productName": "Mobile",
+    "price": 2000,
+    "inTheBox":
+      "Made from high-quality 18/8 stainless steel in the inner and outer body.",
+    "modelNumber": "B00W9EC8UU",
+    "size": "5.5 inch",
+    "category": "mobile",
+    "color": "black",
+    "touchScreen": "no",
+    "image":
+      "https://www.amazon.in/dp/B00L22ADNY/ref=psdc_1380014031_t2_B00W9EC8UU/mobile.jpeg"
+  },
+  {
+    "id": "3",
+    "productName": "Desktop",
+    "price": 3000,
+    "inTheBox":
+      "Break away from the monotony of life by dabbing this fantastic deodorant introduced by Axe",
+    "modelNumber": "B071VZCJ9G",
+    "size": "5.5 inch",
+    "category": "accessories",
+    "color": "white",
+    "touchScreen": "no",
+    "image":
+      "https://www.amazon.in/AXE-Gold-Temptation-Deodorant-150mobile.jpeg"
+  },
+  {
+    "id": 4,
+    "productName": "Mouse",
+    "price": 4000,
+    "inTheBox":
+      "Integrated 2000 dpi optical gaming sensor and adjustable dpi setting (600/1200/2000) for precise cursor control",
+    "modelNumber": "B01AXA06WS",
+    "size": "5 inch",
+    "category": "mobile",
+    "color": "black",
+    "touchScreen": "yes",
+    "image":
+      "https://images-na.ssl-images-amazon.com/images/I/71kQbCenmtL._SX522_.jpg"
+  },
+  {
+    "productName": "Charger",
+    "price": 5000,
+    "inTheBox":
+      "Two Smart Usb Ports: Either port can output 2.1A and the other port 1A. This will allow you to charge your tablet and phone simultaneously to a combined output of 3.1A",
+    "modelNumber": "B01NBR7VS8",
+    "size": "2 inch",
+    "category": "accessories",
+    "color": "white",
+    "touchScreen": "no",
+    "image":
+      "https://images-eu.ssl-images-amazon.com/images/I/417vSYhvxtL._AC_US160_FMwebp_QL70_.jpg",
+    "id": 5
+  },
+  {
+    "productName": "Modem",
+    "price": 6700,
+    "inTheBox":
+      "Input Type RJ-45 (Ethernet Cable) supported by neighbourhood cable broadband ISPs such as Hathway, ACT, Tikona, Airtel Fibrenet, MyWorld, Nextra, Siti Cable, You Broadband, Spectranet etc.",
+    "modelNumber": "B001FWYGJS",
+    "size": "5.5 inch",
+    "category": "accessories",
+    "color": "white",
+    "touchScreen": "no",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41hzwIHRMGL.jpg",
+    "id": 6
+  }
+]
