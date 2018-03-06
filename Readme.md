@@ -1,7 +1,5 @@
 ## Products Api
 
-Author:Shobana G
-
 1.  To Install Dependencies----npm i
 2.  To Start the Server---npm start
 
