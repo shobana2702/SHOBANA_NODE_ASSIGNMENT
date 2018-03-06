@@ -2,12 +2,10 @@ Products Api
 
 Author:Shobana G
 
-To Install Dependencies----npm i
-To Start Server---npm start
+1.  To Install Dependencies----npm i
+2.  To Start the Server---npm start
 
-Functionalities:
-
-## Products
+## Products API Functionalities:
 
 1.  List products (should support pagination)
 
