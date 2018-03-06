@@ -12,6 +12,7 @@
   "dependencies": {
     "arraysearch": "^1.2.0",
     "express": "^4.16.2",
+    "express-validator": "^5.0.3",
     "filter-values": "^0.4.1",
     "group-array": "^0.3.3",
     "ignore-case": "^0.1.0"
